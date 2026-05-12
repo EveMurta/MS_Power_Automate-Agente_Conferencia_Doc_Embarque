@@ -1,7 +1,3 @@
-Segue o README com todos os dados sensíveis substituídos por placeholders padronizados:
-
----
-
 # Automação RPA — COMEX (Conferência de Documentos de Embarque DHL)
 
 ## 📌 Descrição
